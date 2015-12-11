@@ -1,3 +1,4 @@
+name             "vc2010"
 maintainer       "Webtrends Inc."
 maintainer_email "david.dvorak@webtrends.com"
 license          "All rights reserved"
