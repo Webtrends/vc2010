@@ -6,3 +6,4 @@ long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          "1.0.1"
 supports         "windows"
 depends          "windows", ">= 1.2.6"
+name             "vc2010"
